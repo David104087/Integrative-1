@@ -119,6 +119,7 @@ public class BisectionMethod {
 
 
     public{
+        a , b , x = int;
 
     }
 
