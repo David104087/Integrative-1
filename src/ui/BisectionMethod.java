@@ -102,7 +102,8 @@ public class BisectionMethod {
      * @return the value of the function for the given x
      */
     public static double optionFunction(int option, double x) {
-        double function = 0;
+        double function;
+        function = 0;
 
         if (option == 1) {
             function = 2 * cos(pow(x, 2));
