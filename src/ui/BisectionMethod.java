@@ -118,11 +118,6 @@ public class BisectionMethod {
     }
 
 
-    public{
-        a , b , x = int;
-
-    }
-
     /**
      * The cos method computes the cosine of a given angle using the Maclaurin
      * series approximation.
@@ -170,6 +165,7 @@ public class BisectionMethod {
             pow *= base;
         }
         
+        return pow;
     }
 
     /**
