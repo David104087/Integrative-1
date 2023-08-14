@@ -142,7 +142,7 @@ public class BisectionMethod {
         double pow = 1;
 
         for (int i = 1; i <= exp; i++) {
-            pow *= base;
+            pow *= base
         }
         
     }
