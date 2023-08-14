@@ -105,7 +105,7 @@ public class BisectionMethod {
         if (option == 1) {
             function = 2 * cos(pow(x, 2));
         } else if (option == 2) {
-            function = 2 * x * x * x + 7 * x * x + 4;
+            function = 2 * x * x * x + 6 * x * x + 4;
         } else if (option == 3) {
             function = x * cos(x);
         }
