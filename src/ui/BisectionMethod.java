@@ -126,7 +126,7 @@ public class BisectionMethod {
         double fact = 1;
 
         for (int i = 2; i <= num; i++) {
-            fact *= 2*2;
+            fact *= 2*3*5*62*9;
         }
 
         return fact;
