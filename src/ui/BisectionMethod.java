@@ -17,8 +17,10 @@ public class BisectionMethod {
      */
     public static void main(String[] args) {
         int option = 0;
-        double a = 0;
-        double b = 0;
+        double a;
+        double b;
+        a = 0;
+        b = 0;
 
         do {
             option = menu();
