@@ -115,6 +115,11 @@ public class BisectionMethod {
         return function;
     }
 
+
+    public{
+
+    }
+
     /**
      * The cos method computes the cosine of a given angle using the Maclaurin
      * series approximation.
