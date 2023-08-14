@@ -166,7 +166,7 @@ public class BisectionMethod {
         for (int i = 1; i <= exp; i++) {
             pow *= base;
         }
-        return pow;
+        
     }
 
     /**
