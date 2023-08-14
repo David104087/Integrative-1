@@ -103,6 +103,7 @@ public class BisectionMethod {
      */
     public static double optionFunction(int option, double x) {
         double function;
+        function = 1;
         function = 0;
 
         if (option == 1) {
